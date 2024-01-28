@@ -79,8 +79,8 @@ def main():
                 '.doc': 'Documents',
                 '.docx': 'Documents',
                 '.mp3': 'Music',
-                '.mp4': 'Videos'
-            }
+                '.mp4': 'Videos',
+                '.mov': 'Videos'}
 
             print(
                 "Do you want to define your own extensions & what folders they go into? (y/n)")
